@@ -1,43 +1,34 @@
 <script setup>
-defineProps({
-  msg: {
-    type: String,
-    required: true
-  }
-})
+
 </script>
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
-    <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
-    </h3>
+    developed by Leonardo Castro using<span>Vue 3 + Vite</span>
   </div>
 </template>
 
 <style scoped>
-h1 {
-  font-weight: 500;
-  font-size: 2.6rem;
-  top: -10px;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.greetings{
+  font-size: 12.5px;
+  height: 5vh;
+  background-color: #0f0f0f;
+  color: #7d7d7d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #18181b;
 }
 
-h3 {
-  font-size: 1.2rem;
+.greetings span{
+  color: #43ff69;
+  margin-left: 5px;
 }
 
-.greetings h1,
-.greetings h3 {
-  text-align: center;
-}
-
-@media (min-width: 1024px) {
-  .greetings h1,
-  .greetings h3 {
-    text-align: left;
-  }
-}
 </style>
