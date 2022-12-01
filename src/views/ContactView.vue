@@ -23,7 +23,7 @@
           <input type="text">
         </div>
         <div class="">
-          <img src="https://cdn3d.iconscout.com/3d/premium/thumb/send-mail-6567849-5438419.png" alt="">
+          <img src="https://cdn.dribbble.com/users/1322735/screenshots/14134247/media/a3c84750d3fbaf4759bec145cc48ced5.png?compress=1&resize=400x300" alt="">
         </div>
       </div>
     </div>
@@ -77,7 +77,8 @@ main h1{
   padding: 20px;
   margin-top: 40px;
   min-width: 800px;
-  border: 2px solid #18181b;
+  border-radius: 10px;
+  border: 3px solid #7d7d7d;
   background-color: #131313;  
 }
 .box input{

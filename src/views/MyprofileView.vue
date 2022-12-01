@@ -24,6 +24,7 @@
 
 <style scoped>
 
+
 *{
   font-family: 'Poppins', sans-serif;
 }
