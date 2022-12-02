@@ -10,6 +10,8 @@
       </div>
       <div class="box">
         <p>Here are some of the <span>technologies </span> I have an affinity for.</p>
+        <br>
+        <p>HTML, CSS, JS, PHP, C++, Node.js, Vue.Js, ApiRest, Bulma, Bootstrap</p>
       </div>
     </div>
   </main>

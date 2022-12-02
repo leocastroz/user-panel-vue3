@@ -10,6 +10,8 @@
       </div>
       <div class="box">
         <p>Here are some of the <span>technologies </span> I have an affinity for.</p>
+        <br>
+        <p>GIT, Github, Jira, AWS, Windows, Linux(Ubuntu 22.04).</p>
       </div>
     </div>
   </main>

@@ -6,7 +6,7 @@
     <div class="all">
       <div class="container">
         <span></span>
-        <h1>Tools !</h1>
+        <h1>Certificates !</h1>
       </div>
       <div class="box">
         <p>Here are some of the <span>technologies </span> I have an affinity for.</p>

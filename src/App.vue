@@ -27,6 +27,8 @@ import NavBar from './components/NavBar.vue'
             <RouterLink to="/tools"><span class="material-symbols-outlined">computer</span><p class="home">Tools</p></RouterLink>
             <RouterLink to="/about"><span class="material-symbols-outlined">person</span><p class="home">About</p></RouterLink>
             <RouterLink to="/experience"><span class="material-symbols-outlined">next_week</span><p class="home">Experiences</p></RouterLink>
+            <RouterLink to="/certificates"><span class="material-symbols-outlined">auto_stories</span><p class="home">Certificates</p></RouterLink>
+            <RouterLink to="/proje"><span class="material-symbols-outlined">public</span><p class="home">Projects</p></RouterLink>
             <div class="footer">© all rights reserved - 2022</div>
           </nav>
           <div>
