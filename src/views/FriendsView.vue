@@ -11,6 +11,47 @@
       <div class="box">
         <p>Here are some <span>friends</span> who helped me in my professional career.</p>
       </div>
+      <div class="friends">
+        <div class="card-friend">
+          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEceEhxGvxNMg/profile-displayphoto-shrink_800_800/0/1633645176654?e=1675296000&v=beta&t=eMQSbTEnJZjrbCa2XylcCBbBE2Bo-mlfwMlOOPp_6_k" alt="">
+          <div>
+            <h3>Pablo Araújo</h3>
+            <p>Desenvolvedor .NET | Vue</p>
+          </div>
+        </div>
+
+        <div class="card-friend">
+          <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGq4KLBehpxfw/profile-displayphoto-shrink_800_800/0/1638888713841?e=1675296000&v=beta&t=r5zwM6M4qy80Bm8k2EkZCJLnYAp81H0Ju6cEO6L9_qw" alt="">
+          <div>
+            <h3>Adrian Knapp</h3>
+            <p>Desenvolvedor React | TS</p>
+          </div>
+        </div>
+
+        <div class="card-friend">
+          <img src="https://felipecss.com/img/contact.2b6a9b5a.png" alt="">
+          <div>
+            <h3>Felipe Cosme</h3>
+            <p>Desenvolvedor Vue | JS</p>
+          </div>
+        </div>
+
+        <div class="card-friend">
+          <img src="https://media-exp1.licdn.com/dms/image/D4D03AQEJjW8U-gkKlw/profile-displayphoto-shrink_800_800/0/1665437114281?e=1675296000&v=beta&t=Vt74Oej1LwShAR3HvRLhxczKcGIxtIdPev8ktchsRy4" alt="">
+          <div>
+            <h3>Samuel Pereira</h3>
+            <p>Desenvolvedor Vue | TS</p>
+          </div>
+        </div>
+
+        <div class="card-friend">
+          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHESn2OZCAayA/profile-displayphoto-shrink_800_800/0/1658585129733?e=1675296000&v=beta&t=iJMcfSNuqV1NPPQyMXLntmkTQ1_m8rd5BYbuhSlSBlg" alt="">
+          <div>
+            <h3>Daywison Silva</h3>
+            <p>Desenvolvedor React | Vue</p>
+          </div>
+        </div>
+      </div>
     </div>
   </main>
 </template>
@@ -43,6 +84,37 @@ main{
 
 .box{
   padding: 0 0 0 30px;
+}
+
+.friends{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: 100%;
+  padding: 50px 0 0 30px;
+}
+
+.card-friend{
+  margin: 0 0 30px 0;
+  border-radius: 8px;
+  align-items: center;
+  display: flex;
+  width: 350px;
+  color: #9d9d9d;
+  background-color: #0f0f0f;
+  border-right: 8px solid #43ff69;
+}
+
+.card-friend h3{
+  color: #8fffa5;
+  font-weight: bold;
+}
+
+.card-friend img{
+  border-radius: 8px;
+}
+
+.card-friend div{
+  padding: 0 0 0 20px;
 }
 
 .box span{

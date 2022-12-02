@@ -5,20 +5,11 @@
   <main>
     <div class="all">
       <div class="container">
-        <h1>New !</h1>
+        <span></span>
+        <h1>Tools !</h1>
       </div>
       <div class="box">
-        <p>I´m Leonardo Castro</p>
-        <p>I´m a <span>Software Developer</span></p>
-      </div>
-      <div class="donate">
-        <a class="coffee" href="/">Donate Coffee</a>
-      </div>
-      <div class="media">
-        <a href="/">Discord</a>
-        <a href="/">Github</a>
-        <a href="/">Linkedin</a>
-        <a href="/">Facebook</a>
+        <p>Here are some of the <span>technologies </span> I have an affinity for.</p>
       </div>
     </div>
   </main>
@@ -32,35 +23,30 @@
 
 main{
   background-color: #131313;
-  display: flex;
   justify-content: center;
   align-items: center;
   height: 85vh;
 }
 
-.all{
-  text-align: center;
-}
 
 .container{
+  padding: 30px 0 0 30px;
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
+}
+.container span{
+  width: 5px;
+  height: 40px;
+  background-color: #43ff69;
 }
 
 .box{
-  font-size: 50px;
-  margin: 40px 0 80px 0;
-}
-
-.box p{
-  font-weight: bold;
+  padding: 0 0 0 30px;
 }
 
 .box span{
-  text-shadow: #00ff33 1px 0 10px;
-  color: #43ff69;
-  font-weight: bold;
+  color: #43ff69; 
 }
 
 .donate{

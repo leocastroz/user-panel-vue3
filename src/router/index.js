@@ -15,9 +15,19 @@ const router = createRouter({
       component: () => import('../views/AboutView.vue')
     },
     {
-      path: '/novo',
-      name: 'novo',
-      component: () => import('../views/NovoView.vue')
+      path: '/tech',
+      name: 'tech',
+      component: () => import('../views/TechView.vue')
+    },
+    {
+      path: '/tools',
+      name: 'tools',
+      component: () => import('../views/ToolsView.vue')
+    },
+    {
+      path: '/experience',
+      name: 'experience',
+      component: () => import('../views/ExperienceView.vue')
     },
     {
       path: '/contact',
