@@ -21,7 +21,7 @@
         </div>
 
         <div class="card-friend">
-          <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGq4KLBehpxfw/profile-displayphoto-shrink_800_800/0/1638888713841?e=1675296000&v=beta&t=r5zwM6M4qy80Bm8k2EkZCJLnYAp81H0Ju6cEO6L9_qw" alt="">
+          <img src="https://media-exp1.licdn.com/dms/image/D5603AQGyAvKVqHW4KQ/profile-displayphoto-shrink_200_200/0/1670004070367?e=1675296000&v=beta&t=jvyIRHOIcqoL9JFjf_zTia5u9i-VTVTlVfqA0nrYAU4" alt="">
           <div>
             <h3>Adrian Knapp</h3>
             <p>Desenvolvedor React | TS</p>
@@ -49,6 +49,22 @@
           <div>
             <h3>Daywison Silva</h3>
             <p>Desenvolvedor React | Vue</p>
+          </div>
+        </div>
+
+        <div class="card-friend">
+          <img src="https://media-exp1.licdn.com/dms/image/D4D35AQEwgpfeQd967A/profile-framedphoto-shrink_800_800/0/1667334595812?e=1670655600&v=beta&t=-ZtvGSvAw5ewrNZCYeO7n-66BuLB7uG5IMQFcQiiaog" alt="">
+          <div>
+            <h3>Pedro Guilherme</h3>
+            <p>Desenvolvedor React | TS</p>
+          </div>
+        </div>
+
+        <div class="card-friend">
+          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQED73sDJy780A/profile-displayphoto-shrink_800_800/0/1651623140378?e=1675296000&v=beta&t=TVu30sob6p3E4L90slxj6Ga8wps5WYJKqS3KnDOYZ_s" alt="">
+          <div>
+            <h3>Vinicius Okamoto</h3>
+            <p>Desenvolvedor React | Flutter</p>
           </div>
         </div>
       </div>

@@ -9,7 +9,7 @@
         <h1>Tools !</h1>
       </div>
       <div class="box">
-        <p>Here are some of the <span>technologies </span> I have an affinity for.</p>
+        <p>Here are some of my <span>work tools </span> as a frontend developer.</p>
         <br>
         <p>GIT, Github, Jira, AWS, Windows, Linux(Ubuntu 22.04).</p>
       </div>

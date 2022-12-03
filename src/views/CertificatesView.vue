@@ -9,9 +9,13 @@
         <h1>Certificates !</h1>
       </div>
       <div class="box">
-        <p>Here are some of the <span>technologies </span> I have an affinity for.</p>
+        <p>Here are some of my <span>certificates  </span> that I have earned throughout my career.</p>
         <br>
-        <p>GIT, Github, Jira, AWS, Windows, Linux(Ubuntu 22.04).</p>
+        <p>MINHA EDUCAÇÃO: Ensino Fundamental, Ensino Médio, Ensino Superior.</p>
+        <br>
+        <p>MEUS CURSOS: Cursos de programação</p>
+        <br>
+        <p>MINHAS CONTRIBUIÇÕES: palestras</p>
       </div>
     </div>
   </main>

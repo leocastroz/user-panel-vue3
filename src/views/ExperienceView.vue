@@ -9,9 +9,15 @@
         <h1>Experience !</h1>
       </div>
       <div class="box">
-        <p>Here are some of the <span>technologies </span> I have an affinity for.</p>
+        <p>Here are some of my <span>work experiences.</span></p>
         <br>
-        <p>GIT, Github, Jira, AWS, Windows, Linux(Ubuntu 22.04).</p>
+        <p>Vale - S/A</p>
+        <br>
+        <p>CWB - Game Brasil</p>
+        <br>
+        <p>Freelancer - Frontend</p>
+        <br>
+        <p>Lecupon - economia inteligente</p>
       </div>
     </div>
   </main>

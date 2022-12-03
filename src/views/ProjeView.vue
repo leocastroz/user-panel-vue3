@@ -9,9 +9,19 @@
         <h1>Projects !</h1>
       </div>
       <div class="box">
-        <p>Here are some of the <span>technologies </span> I have an affinity for.</p>
+        <p>Here are some of my <span>projects  </span> that I created along my journey as a <span>Frontend Developer.  </span></p>
         <br>
-        <p>GIT, Github, Jira, AWS, Windows, Linux(Ubuntu 22.04).</p>
+        <p>Clone Linktree</p>
+        <br>
+        <p>CS - FireClub</p>
+        <br>
+        <p>Vale Do Amazonas (status - profissional)</p>
+        <br>
+        <p>GTAV - FiveM (status - profissional)</p>
+        <br>
+        <p>Timblim (status - profissional)</p>
+        <br>
+        <p>Borba Locações (status - profissional)</p>
       </div>
     </div>
   </main>

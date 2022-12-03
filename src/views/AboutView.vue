@@ -9,7 +9,7 @@
         <h1>About !</h1>
       </div>
       <div class="box">
-        <p>Here are some <span>friends</span> who helped me in my professional career.</p>
+        <p>Here I talk about  <span>myself</span>, writing openly about my story.</p>
       </div>
     </div>
   </main>
