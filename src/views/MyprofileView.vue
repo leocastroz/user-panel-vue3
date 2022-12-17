@@ -10,7 +10,7 @@
         <div class="picture">
           <img class="img-profile" src="https://avatars.githubusercontent.com/u/72839343?v=4" alt="profile">
           <p>Leonardo Castro</p>
-          <p>20y | Student | Development FrontEnd</p>
+          <p>20y | Student | Development</p>
         </div>
         <div class="fields">
           <p>Your Changes</p>
