@@ -13,57 +13,57 @@
       </div>
       <div class="friends">
         <div class="card-friend">
-          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEceEhxGvxNMg/profile-displayphoto-shrink_800_800/0/1633645176654?e=1675296000&v=beta&t=eMQSbTEnJZjrbCa2XylcCBbBE2Bo-mlfwMlOOPp_6_k" alt="">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oka0QHdz9trvloCNNGCVB8yQltgTRJGDCHuyGzRZzKJQxwn5eJpE7IrOXaZnm3rS2ds&usqp=CAU" alt="">
           <div>
-            <h3>Pablo Araújo</h3>
+            <h3>Your name</h3>
             <p>Desenvolvedor .NET | Vue</p>
           </div>
         </div>
 
         <div class="card-friend">
-          <img src="https://media-exp1.licdn.com/dms/image/D5603AQGyAvKVqHW4KQ/profile-displayphoto-shrink_200_200/0/1670004070367?e=1675296000&v=beta&t=jvyIRHOIcqoL9JFjf_zTia5u9i-VTVTlVfqA0nrYAU4" alt="">
+          <img src="https://ubernewsroomapi.10upcdn.com/wp-content/uploads/2018/12/Nikki-Krishnamurthy-400x400.jpg" alt="">
           <div>
-            <h3>Adrian Knapp</h3>
+            <h3>Your name</h3>
             <p>Desenvolvedor React | TS</p>
           </div>
         </div>
 
         <div class="card-friend">
-          <img src="https://felipecss.com/img/contact.2b6a9b5a.png" alt="">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oka0QHdz9trvloCNNGCVB8yQltgTRJGDCHuyGzRZzKJQxwn5eJpE7IrOXaZnm3rS2ds&usqp=CAU" alt="">
           <div>
-            <h3>Felipe Cosme</h3>
+            <h3>Your name</h3>
             <p>Desenvolvedor Vue | JS</p>
           </div>
         </div>
 
         <div class="card-friend">
-          <img src="https://media-exp1.licdn.com/dms/image/D4D03AQEJjW8U-gkKlw/profile-displayphoto-shrink_800_800/0/1665437114281?e=1675296000&v=beta&t=Vt74Oej1LwShAR3HvRLhxczKcGIxtIdPev8ktchsRy4" alt="">
+          <img src="https://ubernewsroomapi.10upcdn.com/wp-content/uploads/2018/12/Nikki-Krishnamurthy-400x400.jpg" alt="">
           <div>
-            <h3>Samuel Pereira</h3>
+            <h3>Your name</h3>
             <p>Desenvolvedor Vue | TS</p>
           </div>
         </div>
 
         <div class="card-friend">
-          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHESn2OZCAayA/profile-displayphoto-shrink_800_800/0/1658585129733?e=1675296000&v=beta&t=iJMcfSNuqV1NPPQyMXLntmkTQ1_m8rd5BYbuhSlSBlg" alt="">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oka0QHdz9trvloCNNGCVB8yQltgTRJGDCHuyGzRZzKJQxwn5eJpE7IrOXaZnm3rS2ds&usqp=CAU" alt="">
           <div>
-            <h3>Daywison Silva</h3>
+            <h3>Your name</h3>
             <p>Desenvolvedor React | Vue</p>
           </div>
         </div>
 
         <div class="card-friend">
-          <img src="https://media-exp1.licdn.com/dms/image/D4D35AQEwgpfeQd967A/profile-framedphoto-shrink_800_800/0/1667334595812?e=1670655600&v=beta&t=-ZtvGSvAw5ewrNZCYeO7n-66BuLB7uG5IMQFcQiiaog" alt="">
+          <img src="https://ubernewsroomapi.10upcdn.com/wp-content/uploads/2018/12/Nikki-Krishnamurthy-400x400.jpg" alt="">
           <div>
-            <h3>Pedro Guilherme</h3>
+            <h3>Your name</h3>
             <p>Desenvolvedor React | TS</p>
           </div>
         </div>
 
         <div class="card-friend">
-          <img src="https://media-exp1.licdn.com/dms/image/C4D03AQED73sDJy780A/profile-displayphoto-shrink_800_800/0/1651623140378?e=1675296000&v=beta&t=TVu30sob6p3E4L90slxj6Ga8wps5WYJKqS3KnDOYZ_s" alt="">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oka0QHdz9trvloCNNGCVB8yQltgTRJGDCHuyGzRZzKJQxwn5eJpE7IrOXaZnm3rS2ds&usqp=CAU" alt="">
           <div>
-            <h3>Vinicius Okamoto</h3>
+            <h3>Your name</h3>
             <p>Desenvolvedor React | Flutter</p>
           </div>
         </div>

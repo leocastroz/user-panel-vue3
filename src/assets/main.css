@@ -11,6 +11,7 @@
     box-sizing: border-box;
     vertical-align:baseline;
     list-style:none;
-    border:0
+    border:0;
+    user-select: none;
 }
 

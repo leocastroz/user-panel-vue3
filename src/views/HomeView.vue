@@ -23,7 +23,7 @@ export default{
         <p>I´m a <span>Frontend Developer</span></p>
       </div>
       <div class="donate">
-        <a v-on:click="show = !show" class="coffee">Donate Coffee ❤️</a>
+        <a @click="show = !show" class="coffee">Donate Coffee ❤️</a>
       </div>
       <div class="media">
         <a href="/" target="_blank">Discord</a>
@@ -49,6 +49,11 @@ export default{
 </template>
 
 <style scoped>
+
+.close{
+  animation-duration: 1s;
+}
+
 
 
 
